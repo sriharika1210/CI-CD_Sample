@@ -1,0 +1,14 @@
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\bin\Release\net9.0\MyApp.exe
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\bin\Release\net9.0\MyApp.deps.json
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\bin\Release\net9.0\MyApp.runtimeconfig.json
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\bin\Release\net9.0\MyApp.dll
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\bin\Release\net9.0\MyApp.pdb
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\obj\Release\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\obj\Release\net9.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\obj\Release\net9.0\MyApp.AssemblyInfo.cs
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\obj\Release\net9.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\obj\Release\net9.0\MyApp.dll
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\obj\Release\net9.0\refint\MyApp.dll
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\obj\Release\net9.0\MyApp.pdb
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\obj\Release\net9.0\MyApp.genruntimeconfig.cache
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\obj\Release\net9.0\ref\MyApp.dll

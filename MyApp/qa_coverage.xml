@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage line-rate="0.7777777777777778" branch-rate="0" complexity="3" version="1.9" timestamp="1762863538" lines-covered="7" lines-valid="9" branches-valid="2">
+  <packages>
+    <package line-rate="0.7777777777777778" branch-rate="0" complexity="3" name="MyApp">
+      <classes>
+        <class line-rate="0.5" branch-rate="0" complexity="2" name="MyApp.Calculator" filename="C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\Calculator.cs">
+          <methods>
+            <method line-rate="1" branch-rate="1" complexity="1" name="Add" signature="(int, int)">
+              <lines>
+                <line number="11" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method line-rate="0" branch-rate="1" complexity="1" name="Subtract" signature="(int, int)">
+              <lines>
+                <line number="12" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method line-rate="1" branch-rate="1" complexity="1" name="Multiply" signature="(int, int)">
+              <lines>
+                <line number="13" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method line-rate="0" branch-rate="0" complexity="2" name="Divide" signature="(int, int)">
+              <lines>
+                <line number="14" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="0" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="1" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="1" branch="False" />
+            <line number="14" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="0" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+          </lines>
+        </class>
+        <class line-rate="1" branch-rate="1" complexity="1" name="MyApp.Program" filename="C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\Program.cs">
+          <methods>
+            <method line-rate="1" branch-rate="1" complexity="1" name="Main" signature="(string[])">
+              <lines>
+                <line number="9" hits="1" branch="False" />
+                <line number="10" hits="1" branch="False" />
+                <line number="11" hits="1" branch="False" />
+                <line number="12" hits="1" branch="False" />
+                <line number="13" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="1" branch="False" />
+            <line number="10" hits="1" branch="False" />
+            <line number="11" hits="1" branch="False" />
+            <line number="12" hits="1" branch="False" />
+            <line number="13" hits="1" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

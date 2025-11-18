@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.7.1221.0">
+  <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="9C-92-15-77-43-58-E0-A7-A5-8D-72-D1-CB-B5-71-E9-D2-32-F3-E9">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2025-06-18T22:05:39.4362672Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="04-00-3B-63-F6-DF-F1-8F-9F-89-1C-25-6C-F8-0A-57-C5-65-27-77">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\vstest.console.exe</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.8123724Z</ModuleTime>
+      <ModuleName>vstest.console</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="74-4C-F3-55-1B-82-55-FD-9C-AF-7C-4D-F5-5F-DB-54-F2-7D-FF-79">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.CoreUtilities.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.1298417Z</ModuleTime>
+      <ModuleName>Microsoft.TestPlatform.CoreUtilities</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="FB-88-EB-6B-5C-D0-F5-3D-E1-DA-09-7F-EE-58-AB-8F-35-FB-03-8A">
+      <ModulePath>C:\WINDOWS\assembly\GAC_MSIL\CrowdStrike.Sensor.ScriptControl\7.28.20008.0__02b60967b1f68187\CrowdStrike.Sensor.ScriptControl.dll</ModulePath>
+      <ModuleTime>2025-10-17T16:44:46.8128842Z</ModuleTime>
+      <ModuleName>CrowdStrike.Sensor.ScriptControl</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="37-37-FE-CD-C1-E6-45-14-BD-7C-DF-C9-9F-40-73-FF-B2-CD-F1-DA">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.PlatformAbstractions.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.1445473Z</ModuleTime>
+      <ModuleName>Microsoft.TestPlatform.PlatformAbstractions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="DA-7B-8F-6F-3E-DC-5A-89-E2-CE-1A-8A-FF-16-DE-D4-84-3D-B0-5B">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2025-08-27T06:04:00.7042543Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="98-A0-E2-CB-9A-13-E1-0A-A3-54-0C-55-08-01-B0-CA-7B-C7-C7-C6">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.3285308Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestPlatform.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9E-C1-32-B1-6C-E7-CB-EB-76-A6-9C-D0-2E-60-9B-50-DB-81-9D-D7">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestPlatform.Client.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.3155301Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestPlatform.Client</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E1-87-15-60-02-13-41-7E-13-29-BC-5D-9E-CB-1B-A0-7C-F8-30-6A">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestPlatform.Common.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.3205312Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestPlatform.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="3C-D4-5D-80-CE-B1-79-66-88-D2-7B-5D-B2-63-67-B6-F1-F5-28-25">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2025-08-22T05:15:13.7809518Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9D-66-02-A5-90-F3-D3-50-22-D9-9C-E1-4A-A2-8D-22-4F-4D-A4-27">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2025-06-18T21:49:07.5336281Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B0-36-B9-7D-09-15-B8-83-4A-D5-64-2C-F9-4E-57-AC-85-6B-11-14">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.Utilities.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.1492293Z</ModuleTime>
+      <ModuleName>Microsoft.TestPlatform.Utilities</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="1B-60-2A-60-F4-F0-3B-D6-10-FB-5B-F2-B1-C3-63-FE-8B-BC-26-D1">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2025-06-18T21:49:07.5180017Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A3-DF-50-C9-83-D2-AB-F4-F2-AD-36-D4-DC-87-14-51-DA-74-A3-E3">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.Extensions.FileSystemGlobbing.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.0899441Z</ModuleTime>
+      <ModuleName>Microsoft.Extensions.FileSystemGlobbing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="C8-4C-E8-6D-41-AA-8D-8B-67-FF-7C-B6-14-7F-E9-11-3B-D5-79-3A">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\netstandard\v4.0_2.0.0.0__cc7b13ffcd2ddd51\netstandard.dll</ModulePath>
+      <ModuleTime>2025-06-18T21:49:07.3925705Z</ModuleTime>
+      <ModuleName>netstandard</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="BF-F5-58-5C-83-BA-F0-E8-72-4D-95-9F-8D-37-77-ED-E8-06-F9-E8">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.CrossPlatEngine.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.1385474Z</ModuleTime>
+      <ModuleName>Microsoft.TestPlatform.CrossPlatEngine</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E2-82-A7-4A-12-3D-FD-B8-28-7D-49-32-07-80-D1-D4-AB-75-4C-C1">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.TestPlatform.Extensions.BlameDataCollector.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.5644064Z</ModuleTime>
+      <ModuleName>Microsoft.TestPlatform.Extensions.BlameDataCollector</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="DD-BE-F3-40-9E-C7-4C-28-6C-B7-A2-2D-9C-9F-CC-AC-D9-56-2A-70">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\System.Reflection.Metadata.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.6030471Z</ModuleTime>
+      <ModuleName>System.Reflection.Metadata</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="6E-3C-CF-50-BB-1D-30-80-5D-CE-58-AB-6B-DD-63-E0-19-66-69-E6">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\System.Collections.Immutable.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.5860391Z</ModuleTime>
+      <ModuleName>System.Collections.Immutable</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="3C-5C-5D-F5-F8-F8-DB-3F-0A-35-C5-ED-8D-35-73-13-A5-4E-3C-DE">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\System.Memory.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.5930461Z</ModuleTime>
+      <ModuleName>System.Memory</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="18-0A-7B-AA-FB-C8-20-A8-38-BB-AC-A4-34-03-2D-9D-33-CC-EE-BE">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\System.Runtime.CompilerServices.Unsafe.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.605047Z</ModuleTime>
+      <ModuleName>System.Runtime.CompilerServices.Unsafe</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="3D-21-64-58-74-0A-D5-CB-05-BC-5F-7C-34-91-CD-E4-4A-1E-5D-F0">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\System.Numerics.Vectors.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.5970453Z</ModuleTime>
+      <ModuleName>System.Numerics.Vectors</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="88-D4-8E-43-B0-25-41-17-8A-54-87-6B-D2-CE-42-55-48-3C-8B-46">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.TestPlatform.Extensions.EventLogCollector.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.5685151Z</ModuleTime>
+      <ModuleName>Microsoft.TestPlatform.Extensions.EventLogCollector</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="29-2B-15-65-F6-C7-53-1B-6D-E4-5C-1F-14-83-8E-59-C1-8C-9E-4F">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.5725127Z</ModuleTime>
+      <ModuleName>Microsoft.TestPlatform.TestHostRuntimeProvider</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9E-E4-B8-F5-17-3A-8D-E2-EC-3B-20-EF-EE-D0-52-8D-17-58-96-2F">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.ArchitectureTools.PEReader.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.1645786Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.ArchitectureTools.PEReader</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9E-E4-B8-F5-17-3A-8D-E2-EC-3B-20-EF-EE-D0-52-8D-17-58-96-2F">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.ArchitectureTools.PEReader.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.5824764Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.ArchitectureTools.PEReader</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8A-93-0C-01-CB-E0-5A-1A-EC-4E-50-FC-3E-95-28-38-FF-A5-2F-F3">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.CodedWebTestAdapter.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.5854731Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestPlatform.Extensions.CodedWebTestAdapter</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="4F-F3-DA-77-8F-6B-EA-9C-C4-9F-E1-F5-15-13-2C-FC-F7-9D-AF-5D">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.TmiAdapter.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.5934804Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestPlatform.Extensions.TmiAdapter</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="49-DE-F2-A9-17-4A-EF-9F-79-7A-51-DD-48-3E-2F-1A-B8-75-53-BD">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Common.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.2166097Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="5A-47-38-61-D1-7B-8A-F3-CE-B2-B4-5F-93-97-53-77-1A-88-C4-C5">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.5894749Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="DE-3C-50-8C-C9-43-7B-8B-D2-50-B1-DA-32-25-A6-70-C1-F5-BD-9F">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.5981969Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="35-94-DC-6D-A8-C0-FD-9D-48-AF-D5-DD-E2-DA-CC-47-60-AA-52-1D">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.VSTestIntegration.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.6032658Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestPlatform.Extensions.VSTestIntegration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CA-F0-22-8B-DA-29-CC-83-94-14-41-E9-43-04-5B-AF-B6-7D-16-85">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.3039187Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.UnitTestFramework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="44-E3-EC-96-64-2E-E0-62-55-C2-9B-8B-1D-11-40-89-FE-6F-00-90">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll</ModulePath>
+      <ModuleTime>2025-06-18T22:05:39.4362672Z</ModuleTime>
+      <ModuleName>System.Data</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8F-3C-26-12-44-EB-95-75-E8-A4-5C-E7-05-EC-39-D7-D6-32-89-3B">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.WebTestAdapter.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.6067779Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestPlatform.Extensions.WebTestAdapter</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B3-F5-54-1D-5F-BF-A3-DC-CA-E9-CE-09-A1-A1-8F-9E-57-C3-BC-F9">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.ComInterfaces.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.6097784Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestTools.CppUnitTestFramework.ComInterfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="BC-FD-E4-BC-DC-BE-1B-29-C3-9F-C8-12-75-78-BF-19-C6-6C-64-8B">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.CppUnitTestExtension.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.6147778Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestTools.CppUnitTestFramework.CppUnitTestExtension</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A4-09-66-97-10-0E-86-33-7F-AC-AD-F6-F9-14-E6-88-9B-D1-6C-98">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestTools.DataCollection.MediaRecorder.Model.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.618929Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestTools.DataCollection.MediaRecorder.Model</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="C3-D7-3B-5C-77-59-90-A3-1B-A4-80-5B-F8-11-D6-6C-FD-1A-62-F9">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestTools.DataCollection.VideoRecorderCollector.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.6229308Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestTools.DataCollection.VideoRecorderCollector</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="01-11-7C-23-2C-D3-01-A8-8F-01-93-00-3F-7F-C6-99-B4-FF-7E-A9">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.CommunicationUtilities.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.1238427Z</ModuleTime>
+      <ModuleName>Microsoft.TestPlatform.CommunicationUtilities</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B6-4F-0E-F7-16-EE-F2-DF-EC-53-26-71-CC-16-46-74-3B-CF-22-2E">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Newtonsoft.Json.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.4051202Z</ModuleTime>
+      <ModuleName>Newtonsoft.Json</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B4-48-DE-57-07-C2-56-1C-3C-D9-29-10-5A-74-00-12-BE-25-C2-E9">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.1562319Z</ModuleTime>
+      <ModuleName>Microsoft.TestPlatform.VsTestConsole.TranslationLayer</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="23-4B-DE-FA-F9-A2-0C-6A-F2-F8-24-FE-8C-EB-DD-9C-57-6F-9B-31">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.Composition\v4.0_4.0.0.0__b77a5c561934e089\System.ComponentModel.Composition.dll</ModulePath>
+      <ModuleTime>2025-06-18T21:49:07.5180017Z</ModuleTime>
+      <ModuleName>System.ComponentModel.Composition</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="66-03-DC-AA-9B-8E-16-16-6C-12-35-62-FD-7C-09-0D-8C-66-9B-69">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll</ModulePath>
+      <ModuleTime>2025-06-18T21:49:07.5336281Z</ModuleTime>
+      <ModuleName>System.Xml.Linq</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="ED-B5-39-96-0F-1C-D3-79-2A-CD-6D-00-C9-0E-F0-9B-20-B9-AD-5F">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.2316077Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.ExecutionCommon</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="6B-F6-6E-C8-40-0F-2B-57-9A-F9-C0-67-17-F9-F6-2C-6F-D4-BA-C9">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Resource.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.2647052Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Resource</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8C-3B-8A-A1-D1-6B-EE-A5-85-FA-6C-88-EB-57-8B-AA-51-28-B7-30">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.3114311Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.WebTestFramework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="98-A0-E2-CB-9A-13-E1-0A-A3-54-0C-55-08-01-B0-CA-7B-C7-C7-C6">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:01.3285308Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestPlatform.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2F-C6-EA-AA-A3-D0-BB-94-0A-57-48-39-D6-D5-8A-00-C6-4E-7F-16">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.TestEngine.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.3940598Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestTools.CppUnitTestFramework.TestEngine</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="6A-56-0C-F7-F7-9F-CA-23-43-56-56-1C-35-60-0C-1A-B9-E5-1B-3D">
+      <ModulePath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Discoverer.dll</ModulePath>
+      <ModuleTime>2025-06-11T09:53:00.3606107Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Discoverer</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

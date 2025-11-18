@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k+JxKUhZAuo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harika.Nukabhusarva\\Solera\\Sample_Demo\\coverage-demo\\MyApp\\MyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harika.Nukabhusarva\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\publish\MyApp.exe
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\publish\MyApp.dll
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\publish\MyApp.runtimeconfig.json
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\publish\MyApp.pdb
+C:\Users\Harika.Nukabhusarva\Solera\Sample_Demo\coverage-demo\MyApp\publish\MyApp.deps.json
