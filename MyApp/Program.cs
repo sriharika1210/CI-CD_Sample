@@ -8,7 +8,7 @@ namespace MyApp
         {
             var calc = new Calculator();
             Console.WriteLine($"5 + 3 = {calc.Add(5, 3)}");
-            int age = int.Parse(Console.ReadLine());
+            int age = 3;
             Console.WriteLine(calc.Multiply(2,age));
         }
     }
