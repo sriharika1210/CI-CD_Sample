@@ -4,7 +4,7 @@ Write-Host "Starting Build..."
 dotnet restore
 
 #Run solution
-dotnet run --project MyApp < "./inputs/ageInput.txt"
+Get-Content "./inputs/ageInput.txt" | dotnet run --project MyApp
 
 # Build solution
 dotnet build --configuration Release
