@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Harika.Nukabhusarva\\Solera\\Sample_Demo\\coverage-demo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DAA37CC7-884B-4A1F-86AD-A5B86D0D2AF4}|MyApp\\MyApp.csproj|c:\\users\\harika.nukabhusarva\\solera\\sample_demo\\coverage-demo\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA37CC7-884B-4A1F-86AD-A5B86D0D2AF4}|MyApp\\MyApp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DCCAFA6-E91C-414E-9347-49395B1D188C}|MyApp.Tests\\MyApp.Tests.csproj|c:\\users\\harika.nukabhusarva\\solera\\sample_demo\\coverage-demo\\myapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DCCAFA6-E91C-414E-9347-49395B1D188C}|MyApp.Tests\\MyApp.Tests.csproj|solutionrelative:myapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAA37CC7-884B-4A1F-86AD-A5B86D0D2AF4}|MyApp\\MyApp.csproj|c:\\users\\harika.nukabhusarva\\solera\\sample_demo\\coverage-demo\\myapp\\myapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DAA37CC7-884B-4A1F-86AD-A5B86D0D2AF4}|MyApp\\MyApp.csproj|solutionrelative:myapp\\myapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAA37CC7-884B-4A1F-86AD-A5B86D0D2AF4}|MyApp\\MyApp.csproj|c:\\users\\harika.nukabhusarva\\solera\\sample_demo\\coverage-demo\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAA37CC7-884B-4A1F-86AD-A5B86D0D2AF4}|MyApp\\MyApp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAA37CC7-884B-4A1F-86AD-A5B86D0D2AF4}|MyApp\\MyApp.csproj|c:\\users\\harika.nukabhusarva\\solera\\sample_demo\\coverage-demo\\myapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
@@ -49,8 +53,12 @@
               "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyApp.csproj",
               "DocumentMoniker": "C:\\Users\\Harika.Nukabhusarva\\Solera\\Sample_Demo\\coverage-demo\\MyApp\\MyApp.csproj",
               "RelativeDocumentMoniker": "MyApp\\MyApp.csproj",
@@ -62,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Harika.Nukabhusarva\\Solera\\Sample_Demo\\coverage-demo\\MyApp.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "MyApp.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\Harika.Nukabhusarva\\Solera\\Sample_Demo\\coverage-demo\\MyApp.Tests\\UnitTest1.cs",
               "RelativeToolTip": "MyApp.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T04:21:32.441Z",
               "EditorCaption": ""
@@ -87,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Harika.Nukabhusarva\\Solera\\Sample_Demo\\coverage-demo\\MyApp\\Program.cs",
               "RelativeDocumentMoniker": "MyApp\\Program.cs",
@@ -95,7 +103,8 @@
               "RelativeToolTip": "MyApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T04:27:33.684Z"
+              "WhenOpened": "2025-11-07T04:27:33.684Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -108,14 +117,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T04:23:07.499Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
