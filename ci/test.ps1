@@ -1,5 +1,7 @@
 Write-Host "Running Tests..."
 
+# Run Unit Tests
+dotnet test --configuration Release --collect:"XPlat Code Coverage" --results-directory "./TestResults"
 
 # Manual Tests With Code Coverage
 Get-Content "./inputs/ageInput.txt" | dotnet-coverage collect --output-format cobertura --output "../manual_coverage.cobertura.xml" -- dotnet "./MyApp/bin/Release/net9.0/MyApp.dll"
