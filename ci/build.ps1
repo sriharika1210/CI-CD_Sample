@@ -7,6 +7,7 @@ dotnet restore
 dotnet tool install -g dotnet-coverage
 
 # Build solution
-dotnet build --configuration Release
+#dotnet build --configuration Release
+docker build -t myapp .
 
 Write-Host "Build completed successfully!"

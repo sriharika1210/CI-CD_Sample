@@ -1,0 +1,22 @@
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS test
+WORKDIR /src
+COPY . .
+
+# Restore
+RUN dotnet restore
+
+# Run unit tests + coverage
+RUN dotnet test ./MyApp.Tests/MyApp.Tests.csproj \
+    --collect:"XPlat Code Coverage" \
+    --results-directory:/src/TestResults \
+    --logger "trx;LogFileName=test_results.trx"
+
+# Install ReportGenerator
+RUN dotnet tool install --global dotnet-reportgenerator-globaltool
+ENV PATH="${PATH}:/root/.dotnet/tools"
+
+# Generate HTML report
+RUN reportgenerator \
+    -reports:/src/TestResults/**/coverage.cobertura.xml \
+    -targetdir:/src/CoverageReport \
+    -reporttypes:Html
