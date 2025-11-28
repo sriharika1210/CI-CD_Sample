@@ -1,14 +1,14 @@
 name: CI Pipeline
 
-# Trigger the workflow on push to any branch
 on:
   push:
     branches:
-      - "**"  # or specify master/main
+      - "**"
 
 jobs:
   build-and-test:
-    runs-on: windows-latest   # pwsh requires Windows or can use ubuntu-latest with PowerShell installed
+    runs-on: windows-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -17,8 +17,8 @@ jobs:
         run: pwsh ./ci/build.ps1
 
       - name: Test
-        run: pwsh ./ci/test.ps1
-        
+        run: pwsh ./ci/test.ps1 -workspace "${{ github.workspace }}"
+
       - name: Generate Coverage
         run: pwsh ./ci/results.ps1
 
