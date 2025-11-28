@@ -5,7 +5,7 @@ param(
 Write-Host "Running Tests..."
 
 # Build test Docker image
-docker build -f MyApp.Tests/Dockerfile.tests -t myapp-tests .
+docker build -f "./MyApp.Tests/Dockerfile.tests" -t myapp-tests .
 
 # Prepare folders
 mkdir "$workspace/TestResults" -Force

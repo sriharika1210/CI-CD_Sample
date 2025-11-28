@@ -8,6 +8,6 @@ dotnet tool install -g dotnet-coverage
 
 # Build solution
 #dotnet build --configuration Release
-docker build -f MyApp/Dockerfile -t myapp .
+docker build -f "./MyApp/Dockerfile" -t myapp .
 
 Write-Host "Build completed successfully!"
